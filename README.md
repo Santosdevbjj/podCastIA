@@ -25,6 +25,11 @@ Chegou a hora de pôr as ferramentas de IA a prova, vamos construir um podcast u
     - Áudio gerado pela elevenLabs
     - Midjourney Para gerar capas
 
+    
+
+**O nosso podcast é sobre a inteligência artificial nos negócios.**
+
+<img width="1080" height="653" alt="Screenshot_20250716-205350" src="https://github.com/user-attachments/assets/55d234c4-5582-4ba8-8206-cb71707463a7" />
 
 
 
