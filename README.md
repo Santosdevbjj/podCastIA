@@ -12,6 +12,7 @@ Chegou a hora de pôr as ferramentas de IA a prova, vamos construir um podcast u
 
 
 💻 **Tecnologias utilizadas no projeto**
+
      - ChatGPT
      - Midjourney
      - ElevenLabs
@@ -19,6 +20,7 @@ Chegou a hora de pôr as ferramentas de IA a prova, vamos construir um podcast u
 
 
 ✨ **Como foi feito?**
+
     - Roteiro gerado via chatgpt
     - Áudio gerado pela elevenLabs
     - Midjourney Para gerar capas
